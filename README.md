@@ -1,10 +1,10 @@
 # 📊 Metrics
 
-![Build](https://github.com/tonannguyen/metrics/workflows/Build/badge.svg)
+![Metrics](https://metrics.lecoq.io/tonannguyen)
 
 Generate your metrics that you can embed everywhere, including your GitHub profile readme !
 
-[![Metrics](https://github.com/tonannguyen/tonannguyen/blob/master/metrics.classic.svg)](https://metrics.lecoq.io)
+![Metrics](https://github.com/tonannguyen)
 
 But there's more with [plugins](https://github.com/tonannguyen/metrics/tree/master/src/plugins) and [templates](https://github.com/tonannguyen/metrics/tree/master/src/templates) !
 
