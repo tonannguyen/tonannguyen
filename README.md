@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=19124361)](https://stackoverflow.com/users/19124361/ton)
