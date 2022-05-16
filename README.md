@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonannguyen&count_private=true&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tonannguyen&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonannguyen&repo=github-readme-stats)](https://github.com/tonannguyen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonannguyen&layout=compact)](https://github.com/tonannguyen/github-readme-stats)
+
