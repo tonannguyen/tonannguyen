@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=19124361)](https://stackoverflow.com/users/19124361/ton)
+<a href="https://app.daily.dev/lovidariot78"><img src="https://api.daily.dev/devcards/cd6043682bcb4260b6987bec2be3280a.png?r=qht" width="400" alt="Lovidariot's Dev Card"/></a>
